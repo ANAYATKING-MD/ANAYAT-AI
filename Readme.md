@@ -26,7 +26,7 @@ ___
 <h1 align="center"> 𝐆𝐞𝐭 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 </h1>
 
 <p align="center">
-  <a href="https://anayat-hacker-iit3.onrender.com/">
+  <a href="https://anayatpairingsite-99bd6aef7b14.herokuapp.com/">
     <img src="./ANAYAT-AI/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ ___
 
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=923452401207">
+  <a href="https://wa.me/+923452401207?text=•||•➪𝐇𝐈⏤͟͟͞͞⤹𝐀𝐍𝐀𝐘𝐀𝐓-𝑯𝑨𝑪𝑲𝑬𝑹-🥶🪽°||•">
     <img src="./ANAYAT-AI/contact-developer-btn.svg" alt="Contact Developer"/>
   </a>
 </p>
